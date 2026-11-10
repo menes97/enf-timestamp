@@ -1,0 +1,12 @@
+{
+  "name": "enf-timestamp",
+  "version": "1.0.0",
+  "description": "Find when a recording was made from the mains hum in it (ENF analysis), dependency-free Node.js",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node test/run.cjs",
+    "plot": "node tools/plot.cjs"
+  }
+}

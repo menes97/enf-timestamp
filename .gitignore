@@ -1,0 +1,6 @@
+*.f32
+*.mp3
+*.mp4
+*.m4a
+*.wav
+node_modules/
